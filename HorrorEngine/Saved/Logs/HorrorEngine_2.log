@@ -1261,3 +1261,11 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.02.25-07.34.19:660][ 59]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Level/_GENERATED/surya/CubeGridToolOutput_FD88F773_Auto1
 [2023.02.25-07.34.19:660][ 59]LogSavePackage: Moving 'D:/Project/HorrorEngine/HorrorEngine/Saved/CubeGridToolOutput_FD88F773_Auto334043704BFC284E76AF94A7F2447CF7.tmp' to 'D:/Project/HorrorEngine/HorrorEngine/Saved/Autosaves/Game/Level/_GENERATED/surya/CubeGridToolOutput_FD88F773_Auto1.uasset'
 [2023.02.25-07.34.19:661][ 59]LogFileHelpers: Auto-saving content packages took 0.036
+[2023.02.25-08.08.35:365][843]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.02.25-08.08.35:430][843]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level/School/B/YQ/26JDJ86ECVXBRILU7BLEBY
+[2023.02.25-08.08.35:430][843]LogSavePackage: Moving 'D:/Project/HorrorEngine/HorrorEngine/Saved/26JDJ86ECVXBRILU7BLEBYA409A4C5483717EBF5F0C98A84DFB53C.tmp' to 'D:/Project/HorrorEngine/HorrorEngine/Content/__ExternalActors__/Level/School/B/YQ/26JDJ86ECVXBRILU7BLEBY.uasset'
+[2023.02.25-08.08.35:438][843]LogSavePackage: Moving output files for package: /Game/Level/_GENERATED/surya/CubeGridToolOutput_FD88F773
+[2023.02.25-08.08.35:439][843]LogSavePackage: Moving 'D:/Project/HorrorEngine/HorrorEngine/Saved/CubeGridToolOutput_FD88F773D0504FE549DAF1AFC9754C8306C26D0A.tmp' to 'D:/Project/HorrorEngine/HorrorEngine/Content/Level/_GENERATED/surya/CubeGridToolOutput_FD88F773.uasset'
+[2023.02.25-08.08.35:453][843]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.25-08.08.35:454][843]LogContentValidation: Display: Validating StaticMeshActor /Game/Level/School.School:PersistentLevel.StaticMeshActor_UAID_E848B8CA8D3CF46901_1196020984
+[2023.02.25-08.08.35:455][843]LogContentValidation: Display: Validating StaticMesh /Game/Level/_GENERATED/surya/CubeGridToolOutput_FD88F773.CubeGridToolOutput_FD88F773
